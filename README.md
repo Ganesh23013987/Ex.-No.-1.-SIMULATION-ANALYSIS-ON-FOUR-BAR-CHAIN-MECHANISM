@@ -56,7 +56,11 @@
 ![image](https://github.com/user-attachments/assets/7c048cb7-d045-413e-96f8-0d3faff7975d)
 
 
+
 ### Name: GANESH D
 ### Register Number: 212223240035
+
+
+
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
